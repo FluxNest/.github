@@ -1,4 +1,8 @@
-## Hi there 👋
+## FluxNext EAF Framework 👋
+
+Enterprise Application Framework 
+
+Generic springboot + containerization based framework
 
 <!--
 
